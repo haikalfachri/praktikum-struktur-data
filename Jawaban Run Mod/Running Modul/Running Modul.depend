@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1632378676 source:c:\users\bagas\onedrive\documents\tugas kuliah\kegiatan\ujian asprak\std\running modul\body.cpp
+	"header.h"
+
+1632378126 c:\users\bagas\onedrive\documents\tugas kuliah\kegiatan\ujian asprak\std\running modul\header.h
+	<iostream>
+
+1632378695 source:c:\users\bagas\onedrive\documents\tugas kuliah\kegiatan\ujian asprak\std\running modul\main.cpp
+	"header.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1636988328 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\module4\module4\main.cpp
+	"mylist.h"
+
+1634193301 c:\users\haikal\documents\kuliah\semester 3\strukdat\module4\module4\mylist.h
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1634399772 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\module4\module4\mylist.cpp
+	"mylist.h"
+

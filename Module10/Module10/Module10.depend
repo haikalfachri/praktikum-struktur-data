@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1639031172 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\module10\module10\multi.cpp
+	"multi.h"
+
+1639032111 c:\users\haikal\documents\kuliah\semester 3\strukdat\module10\module10\multi.h
+	<string>
+	<iostream>
+
+1639029420 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\module10\module10\main.cpp
+	"multi.h"
+

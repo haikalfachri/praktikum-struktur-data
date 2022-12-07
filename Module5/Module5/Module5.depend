@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1634800351 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\module5\module5\main.cpp
+	"SLL.h"
+
+1634797804 c:\users\haikal\documents\kuliah\semester 3\strukdat\module5\module5\sll.h
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1634798796 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\module5\module5\sll.cpp
+	"SLL.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1636006150 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\module7assesment\module7\main.cpp
+	"SLL.h"
+
+1636005982 c:\users\haikal\documents\kuliah\semester 3\strukdat\module7assesment\module7\sll.h
+	<string>
+	<iostream>
+
+1636006025 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\module7assesment\module7\sll.cpp
+	"SLL.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1633588542 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\mod3\mod3\main.cpp
+	"catalog.h"
+	<iostream>
+
+1633588542 c:\users\haikal\documents\kuliah\semester 3\strukdat\mod3\mod3\catalog.h
+	<iostream>
+
+1633588097 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\mod3\mod3\catalog.cpp
+	"catalog.h"
+	<iostream>
+
+1633590380 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\module3\mod3\catalog.cpp
+	"catalog.h"
+	<iostream>
+
+1633590380 c:\users\haikal\documents\kuliah\semester 3\strukdat\module3\mod3\catalog.h
+	<iostream>
+
+1633590387 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\module3\mod3\main.cpp
+	"catalog.h"
+	<iostream>
+
